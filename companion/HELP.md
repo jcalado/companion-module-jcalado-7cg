@@ -1,3 +1,5 @@
-## Your module
+## 7CG
 
-Write some help for your users here!
+Trigger events inside 7CG and get feedback.
+
+You can download 7CG for free here: https://7cg.jcalado.com
